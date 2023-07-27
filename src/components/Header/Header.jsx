@@ -13,7 +13,10 @@ const Header = () => {
                  <li className="h-full"><Link className={router.pathname == '/blogs' ? 'font-semibold' : ''}
                     href='/blogs'
                  >Blog</Link></li>
-                 <li className="h-full"><Link className={router.pathname == '/about' ? 'font-semibold': ''} href='/about'>About</Link></li> 
+
+                 <li className="h-full"><Link className={router.pathname == '/about' ? 'font-semibold' : ''} href='/about'>About</Link></li> 
+                 
+                 <li className="h-full"><Link className={router.pathname == '/contact' ? 'font-semibold': ''} href='/contact'>Contact</Link></li> 
               </ul>
            </div>
            
