@@ -5,5 +5,6 @@ export const loadBlog = async () => {
    return data;
 
    // api key: 74af0c3b3594434db3c5a3466b8aec8a
+   // api key: 74af0c3b3594434db3c5a3466b8aec8a
 };
 
