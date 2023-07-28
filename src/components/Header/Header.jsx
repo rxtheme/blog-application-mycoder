@@ -6,7 +6,7 @@ const Header = () => {
    const router = useRouter();
   return (
      <div>
-        <div className="flex justify-between px-10 bg-gray-300 py-3 rounded-xl w-[95%] mx-auto mt-2 border-2 border-purple-500 hover:border-green-500">
+        <div className="flex justify-between px-10 bg-gray-300 py-3 rounded-xl w-[98%] mx-auto mt-2 border-2 border-purple-500">
          <div><Link className="font-semibold" href='/'>Home</Link></div>
            <div>
               <ul className="flex gap-3"> 
