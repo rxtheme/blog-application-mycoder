@@ -21,8 +21,8 @@ const Hero = () => {
           </div>
         </div>
         <BlogLayout />
+        <Footer />
       </div>
-      <Footer />
     </>
   );
 };

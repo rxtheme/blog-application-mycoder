@@ -1,10 +1,13 @@
+import Header from '@/components/Header/Header';
 
 const SingleBlog = () => {
-   return (
-      <div>
-         blog dynamic
-      </div>
-   );
+  return (
+    <>
+      <Header />
+
+      <div>dynamic</div>
+    </>
+  );
 };
 
 export default SingleBlog;
