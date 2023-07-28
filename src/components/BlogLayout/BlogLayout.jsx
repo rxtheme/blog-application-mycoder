@@ -6,8 +6,8 @@ const BlogLayout = () => {
       <div className="bg-green-100">
         <Heading
           title="Blog List"
-          class1="text-3xl text-slate-800 font-bold"
-          class2="text-slate-600"
+          class1="text-3xl text-green-800 font-bold"
+          class2="text-green-600"
           desc="Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum, eius?"
         />
 
